@@ -1,0 +1,1 @@
+<a href="https://fulfilium.github.io/suzatary-core-roadmap/"><picture><source media="(prefers-color-scheme: dark)" srcset="roadmap-dark.svg"><img alt="The open tasks, most urgent first" src="roadmap.svg"></picture></a>
