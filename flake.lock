@@ -101,17 +101,17 @@
         ]
       },
       "locked": {
-        "lastModified": 1795128590,
-        "narHash": "sha256-h3shkSf1sf0qk9jIlLaW34Q8o+RiTBqKLToJ4/jbP1w=",
+        "lastModified": 1795193583,
+        "narHash": "sha256-hRtufkoVmHnxJLTEabm/gXY05KBsDVGSzVEXHuH/Pws=",
         "owner": "fulfilium",
         "repo": "prodrome",
-        "rev": "c141b2b25746375ca8cf9af5180a757cf11f49c1",
+        "rev": "9fe98a47b769e0cb8964d00dcbda58947d0593e2",
         "type": "github"
       },
       "original": {
         "owner": "fulfilium",
         "repo": "prodrome",
-        "rev": "c141b2b25746375ca8cf9af5180a757cf11f49c1",
+        "rev": "9fe98a47b769e0cb8964d00dcbda58947d0593e2",
         "type": "github"
       }
     },
@@ -153,11 +153,11 @@
         "typst-design": "typst-design"
       },
       "locked": {
-        "lastModified": 1795196927,
-        "narHash": "sha256-OzY23pIL5hW016UfmXEs76o7WUeI4sKPspgBfWU548U=",
+        "lastModified": 1795202134,
+        "narHash": "sha256-sm90122E/c458D13b32MXs8ORE65IwBQbz++Cy9wpvw=",
         "ref": "master",
-        "rev": "b5936d677eeda9bbb1211147a4568377452317bc",
-        "revCount": 504,
+        "rev": "26d491ff56a24892dad89c2752c181c683ed1c56",
+        "revCount": 506,
         "type": "git",
         "url": "https://github.com/fulfilium/suzatary-core"
       },
