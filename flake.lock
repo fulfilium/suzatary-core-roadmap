@@ -153,11 +153,11 @@
         "typst-design": "typst-design"
       },
       "locked": {
-        "lastModified": 1795330655,
-        "narHash": "sha256-rPsNsHDmBIX4yEUxSOrtLt5JyoTeD5uHim55v4xwluQ=",
+        "lastModified": 1795331919,
+        "narHash": "sha256-cZ0NBgglxAAQ2YNNEvRyjdedvP/1/hvKNEF8qQihi4w=",
         "ref": "master",
-        "rev": "54e6756982519e93940b16b91c393bdece6671de",
-        "revCount": 541,
+        "rev": "a675feb9c3158cdf5b27444d549bf2bf27a511bd",
+        "revCount": 543,
         "type": "git",
         "url": "https://github.com/fulfilium/suzatary-core"
       },
